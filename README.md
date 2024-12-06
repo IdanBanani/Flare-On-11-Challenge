@@ -20,7 +20,11 @@ recommended:
 
 <https://0xdf.gitlab.io/flare-on-2024>
 
-Could be also useful (in no particular order):
+Could be also useful (in no particular order):  
+
+<https://github.com/3ud4jm0nj4/writeup/tree/main/flare-on%2011>
+
+<https://csmantle.top/ctf/wp/2024/11/09/ctf-writeup-flareon11.html>
 
 <https://github.com/hasherezade/flareon2024/tree/main>
 
