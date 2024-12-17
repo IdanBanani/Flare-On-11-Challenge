@@ -401,21 +401,21 @@ Appendix
 --------------------
 
 Refer to the chacha20 key and nonce format here:
-<https://xilinx.github.io/Vitis_Libraries/security/2019.2/guide_L1/internals/chacha20.html>
-<https://www.uptycs.com/blog/threat-research-report-team/rtm-locker-ransomware-as-a-service-raas-linux>
-<https://ar5iv.labs.arxiv.org/html/1907.11941>
-<https://zenn.dev/mahiro33/articles/40d0efb0b5b32a>
+<https://xilinx.github.io/Vitis_Libraries/security/2019.2/guide_L1/internals/chacha20.html>  
+<https://www.uptycs.com/blog/threat-research-report-team/rtm-locker-ransomware-as-a-service-raas-linux>  
+<https://ar5iv.labs.arxiv.org/html/1907.11941>  
+<https://zenn.dev/mahiro33/articles/40d0efb0b5b32a>  
 <https://github.com/Ginurx/chacha20-c> (don't forget to change "k" to "K")  
 <https://github.com/spcnvdr/xchacha20>
 
 Emulation with ghidra:  
-<https://syscall7.com/machine-emulation-with-ghidra/>
-<https://github.com/HackOvert/GhidraSnippets?tab=readme-ov-file#emulating-a-function>
-<https://documents.trendmicro.com/images/TEx/pdf/Technical-Brief---LoRaWANs-Protocol-Stacks-The-Forgotten-Targets-at-Risk.pdf>
-<https://www.youtube.com/watch?v=xz5qHmc41LI>
-<https://github.com/Nalen98/GhidraEmu>
-<https://bienaime.info/media/sstic2020_bienaime.pdf> (french)
-<https://wrongbaud.github.io/posts/kong-vs-ghidra/>
-<https://samg.uk/rp2040/emulating_rp2040.html>
-<https://medium.com/@cetfor/emulating-ghidras-pcode-why-how-dd736d22dfb>
+<https://syscall7.com/machine-emulation-with-ghidra/>  
+<https://github.com/HackOvert/GhidraSnippets?tab=readme-ov-file#emulating-a-function>  
+<https://documents.trendmicro.com/images/TEx/pdf/Technical-Brief---LoRaWANs-Protocol-Stacks-The-Forgotten-Targets-at-Risk.pdf>  
+<https://www.youtube.com/watch?v=xz5qHmc41LI>  
+<https://github.com/Nalen98/GhidraEmu>  
+<https://bienaime.info/media/sstic2020_bienaime.pdf> (french)  
+<https://wrongbaud.github.io/posts/kong-vs-ghidra/>  
+<https://samg.uk/rp2040/emulating_rp2040.html>  
+<https://medium.com/@cetfor/emulating-ghidras-pcode-why-how-dd736d22dfb>  
 <https://www.danbrodsky.me/posts/ghidra-gang/>
