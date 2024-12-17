@@ -32,7 +32,6 @@ Could be also useful (in no particular order):
 
 <https://github.com/ispoleet/flare-on-challenges/tree/master/flare-on-2024>
 
-<https://blog.omroot.io/flareon11-challenge-5-sshd/>
 
 <https://blog.omroot.io/flareon11-challenge-7-fullspeed/>
 
