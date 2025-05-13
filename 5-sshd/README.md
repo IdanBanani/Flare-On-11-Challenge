@@ -1,5 +1,7 @@
 Difficulity: Medium  
 
+**@TODO:** Mention this (crazy) writeup using unicorn : [Written by Pedro Vilaca](https://reverse.put.as/2024/11/29/flare-on-2024-sshd/)  
+
 **Very interesting challenge** with many newances, things going under the hood, and skills you can/need to learn/use to manage to solve it faster/easier.
 
     Our server in the FLARE Intergalactic HQ has crashed!
